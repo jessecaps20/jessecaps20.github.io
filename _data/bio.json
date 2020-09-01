@@ -153,18 +153,16 @@
   ],
   "awards": [
     {
-     "company": "STAR Technologies University of Hawaii",
-      "position": "Assistant Project Manager",
-      "website": "www.star.hawaii.edu",
-      "startDate": "2018-06-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Assist and manage with application of multiple technical projects relating to STAR and its affiliate sites",
-        "Creat efficient workflows and programs for other administrative assistants",
-        "Test new software and perform quality control before software goes live to the UH student body"
-        ]
-   
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
