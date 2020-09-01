@@ -34,25 +34,6 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "interests": [
-    {
       "name": "Project Management",
       "keywords": [
       ]
@@ -75,16 +56,31 @@
     {
       "name": "Basketball",
       "keywords": [
-       ]
+         ]
     }
   ],
   "skills": [
     {
-     
-      
-      "name": "Project Management", 
+      "name": "Languages and Frameworks",
+      "level": "",
       "keywords": [
-        
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
