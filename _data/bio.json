@@ -34,17 +34,17 @@
   },
   "interests": [
     {
+      "name": "Project Management",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Sustainability",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Guitar",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Basketball",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Hi-Fi Audio",
       "keywords": [
       ]
     },
@@ -54,33 +54,15 @@
       ]
     },
     {
-      "name": "Photography",
+      "name": "Basketball",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+       "name": "Project Management, Fusion 360 CAD, Microsoft Suite, Leadership",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
