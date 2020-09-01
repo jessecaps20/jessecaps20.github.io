@@ -87,7 +87,7 @@
     {
       "institution": "Community College of the Air Force, Montgomery, AL",
       "area": "Avionics Technology",
-      "studyType": "B.S.",
+      "studyType": "A.A.S.",
       "startDate": "2011-11-01",
       "endDate": "2014",
       "gpa": "4.0",
@@ -97,27 +97,28 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "STAR Technologies University of Hawaii",
+      "position": "Assistant Project Manager",
+      "website": "www.star.hawaii.edu",
+      "startDate": "2018-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assist and manage with application of multiple technical projects relating to STAR and its affiliate sites",
+        "Creat efficient workflows and programs for other administrative assistants",
+        "Test new software and perform quality control before software goes live to the UH student body"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Project Management Institute Hawaii",
+      "position": "Social Media Manager Intern",
+      "website": "pmihnl.org",
+      "startDate": "2020-07-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Manage social media accounts (LinkedIn, Facebook, Twitter) For the Honolulu Chapter of the Project Management Institute"
+        
       ]
     }
   ],
