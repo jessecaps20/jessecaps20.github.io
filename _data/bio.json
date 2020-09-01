@@ -1,180 +1,183 @@
 {
-  "basics": {
-    "name": "Jesse Capalbo",
-    "label": "Student",
-    "picture": "https://jessecaps20.github.io/images/Jesse.jpg",
-    "email": "jcapalbo@hawaii.edu",
-    "phone": "",
-    "website": "https://jessecaps20.github.io",
-    "summary": "I am studying for a B.B.A. in MIS at the University of Hawaii with a graduation date of Summer 2021.",
-    "location": {
-      "address": "",
-      "postalCode": "96826",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Jesse Capalbo",
+      "label":"Student",
+      "picture":"https://jessecaps20.github.io/images/Jesse.jpg",
+      "email":"jcapalbo@hawaii.edu",
+      "phone":"",
+      "website":"https://jessecaps20.github.io",
+      "summary":"I am studying for a B.B.A. in MIS at the University of Hawaii with a graduation date of Summer 2021.",
+      "location":{
+         "address":"",
+         "postalCode":"96826",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"jessecaps20",
+            "url":"http://github.com/jessecaps20"
+         },
+         {
+            "network":"linkedin",
+            "username":"jessecaps20",
+            "url":"http://linkedin.com/in/jessecaps20"
+         },
+         {
+            "network":"instagram",
+            "username":"jessecaps20",
+            "url":"http://instagram.com/jessecaps20"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "jessecaps20",
-        "url": "http://github.com/jessecaps20"
+         "name":"Project Management",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "jessecaps20",
-        "url": "http://linkedin.com/in/jessecaps20"
+         "name":"Sustainability",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "instagram",
-        "username": "jessecaps20",
-        "url": "http://instagram.com/jessecaps20"
+         "name":"Guitar",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Hiking",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Basketball",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-    "interests": [
-    {
-      "name": "Project Management",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Sustainability",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Guitar",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Hiking",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Basketball",
-      "keywords": [
-             ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Workplace",
-      "level": "",
-      "keywords": [
-        "Project Management",
-        "3D CAD",
-        "Microsoft Suite",
-        "Leadership",
-        
-     
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Summer, 2021)",
-      "studyType": "B.B.A.",
-      "startDate": "2017-08-24",
-      "endDate": "Present",
-      "gpa": "3.5",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Community College of the Air Force, Montgomery, AL",
-      "area": "Avionics Technology",
-      "studyType": "A.A.S.",
-      "startDate": "2011-11-01",
-      "endDate": "2014",
-      "gpa": "4.0",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "STAR Technologies University of Hawaii",
-      "position": "Assistant Project Manager",
-      "website": "www.star.hawaii.edu",
-      "startDate": "2018-06-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Assist and manage with application of multiple technical projects relating to STAR and its affiliate sites",
-        "Creat efficient workflows and programs for other administrative assistants",
-        "Test new software and perform quality control before software goes live to the UH student body"
-      ]
-    },
-    {
-      "company": "Project Management Institute Hawaii",
-      "position": "Social Media Manager Intern",
-      "website": "pmihnl.org",
-      "startDate": "2020-07-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Manage social media accounts (LinkedIn, Facebook, Twitter) For the Honolulu Chapter of the Project Management Institute"
-        
-      ]
-    },
-     {
-      "company": "United States Air Force",
-      "position": "F-16 Avionics Technician",
-      "website": "",
-      "startDate": "2011-11-01",
-      "endDate": "2015-10-31",
-      "summary": "",
-      "highlights": [
-        "Facilitated troubleshooting and repair of electronics systems on F-16 fighter jets",
-        "Performed maintenance on Classified Secret computer systems",
-        "Managed multi-million dollar aircrafty parts database"
-        ]
-     }
-  ],
-  "volunteer": [
-  
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Member, Tau Kappa Epsilon Fraternity, 2017-2019",
-        "Member, Hawaii Student Entrepreneurs, 2017-2018",
-        "facilitator, Airmen Against Drunk Driving, Eglin AFB, FL, 2012-2015"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "2018-Present",
-      "awarder": "Univeristy of Hawaii at Manoa",
-      "summary": ""
-    },
-    {
-      "title": "Air Force Acheivement Medal",
-      "date": "2015",
-      "awarder": "United States Air Force",
-      "summary": ""
-    },
-    {
-      "title": "2000 Miler Club",
-      "date": "2016",
-      "awarder": "Appalachian Trail Conservancy",
-      "summary": "Awarded for completion of 2200 mile thru-hike of the Appalachian Trail"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Workplace",
+         "level":"",
+         "keywords":[
+            "Project Management",
+            "3D CAD",
+            "Microsoft Suite",
+            "Leadership"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems (expected Summer, 2021)",
+         "studyType":"B.B.A.",
+         "startDate":"2017-08-24",
+         "endDate":"Present",
+         "gpa":"3.5",
+         "courses":[
+            
+         ]
+      },
+      {
+         "institution":"Community College of the Air Force, Montgomery, AL",
+         "area":"Avionics Technology",
+         "studyType":"A.A.S.",
+         "startDate":"2011-11-01",
+         "endDate":"2014",
+         "gpa":"4.0",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"STAR Technologies University of Hawaii",
+         "position":"Assistant Project Manager",
+         "website":"www.star.hawaii.edu",
+         "startDate":"2018-06-01",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            "Assist and manage with application of multiple technical projects relating to STAR and its affiliate sites",
+            "Creat efficient workflows and programs for other administrative assistants",
+            "Test new software and perform quality control before software goes live to the UH student body"
+         ]
+      },
+      {
+         "company":"Project Management Institute Hawaii",
+         "position":"Social Media Manager Intern",
+         "website":"pmihnl.org",
+         "startDate":"2020-07-01",
+         "endDate":"Present",
+         "summary":"",
+         "highlights":[
+            "Manage social media accounts (LinkedIn, Facebook, Twitter) For the Honolulu Chapter of the Project Management Institute"
+         ]
+      },
+      {
+         "company":"United States Air Force",
+         "position":"F-16 Avionics Technician",
+         "website":"",
+         "startDate":"2011-11-01",
+         "endDate":"2015-10-31",
+         "summary":"",
+         "highlights":[
+            "Facilitated troubleshooting and repair of electronics systems on F-16 fighter jets",
+            "Performed maintenance on Classified Secret computer systems",
+            "Managed multi-million dollar aircrafty parts database"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"",
+         "website":"",
+         "position":"Professional organization involvement",
+         "startDate":"",
+         "endDate":"",
+         "summary":"",
+         "highlights":[
+            "Member, Tau Kappa Epsilon Fraternity, 2017-2019",
+            "Member, Hawaii Student Entrepreneurs, 2017-2018",
+            "facilitator, Airmen Against Drunk Driving, Eglin AFB, FL, 2012-2015"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Dean's List",
+         "date":"2018-Present",
+         "awarder":"Univeristy of Hawaii at Manoa",
+         "summary":""
+      },
+      {
+         "title":"Air Force Acheivement Medal",
+         "date":"2015",
+         "awarder":"United States Air Force",
+         "summary":""
+      },
+      {
+         "title":"2000 Miler Club",
+         "date":"2016",
+         "awarder":"Appalachian Trail Conservancy",
+         "summary":"Awarded for completion of 2200 mile thru-hike of the Appalachian Trail"
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
