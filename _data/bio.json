@@ -34,17 +34,27 @@
   },
   "interests": [
     {
-      "name": "guitar",
+      "name": "Guitar",
       "keywords": [
       ]
     },
     {
-      "name": "basketball",
+      "name": "Basketball",
       "keywords": [
       ]
     },
     {
-      "name": "llamas",
+      "name": "Hi-Fi Audio",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Hiking",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Photography",
       "keywords": [
       ]
     }
