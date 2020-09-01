@@ -76,21 +76,21 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Summer, 2021)",
+      "studyType": "B.B.A.",
+      "startDate": "2017-08-24",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.5",
       "courses": [
       ]
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Community College of the Air Force, Montgomery, AL",
+      "area": "Avionics Technology",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2011-11-01",
+      "endDate": "2014",
+      "gpa": "4.0",
       "courses": [
       ]
     }
