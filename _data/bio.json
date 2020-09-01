@@ -61,7 +61,9 @@
   ],
   "skills": [
     {
-      "name": "Project Management",
+      "skills": {
+        "skill": "project management",
+      }
       "keywords": [
       ]
     }
