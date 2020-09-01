@@ -56,15 +56,21 @@
     {
       "name": "Basketball",
       "keywords": [
-         ]
+           ]
     }
   ],
   "skills": [
     {
-      "name": " ",
-     
-
-      
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
+      ]
     },
     {
       "name": "Toolsets/OS",
