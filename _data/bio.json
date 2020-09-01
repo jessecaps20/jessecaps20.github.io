@@ -136,18 +136,7 @@
      }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
+  
     {
       "organization": "",
       "website": "",
@@ -156,18 +145,22 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, Tau Kappa Epsilon Fraternity, 2017-2019",
+        "Member, Hawaii Student Entrepreneurs, 2017-2018",
+        "facilitator, Airmen Against Drunk Driving, Eglin AFB, FL, 2012-2015"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Special Recognitions",
+      "date": "",
+      "awarder": "",
+      "summary": "",
+      "highlights": [
+        "University of Hawaii at Manoa Dean’s List, 2018-present",
+        "Appalachian Trail Thru-Hiker 2000 Miler Club, 2016",
+        "Air Force Achievement Medal, 2015"
     },
     {
       "title": "First place",
