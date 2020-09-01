@@ -153,14 +153,16 @@
   ],
   "awards": [
     {
-      "title": "Special Recognitions",
-      "date": "",
-      "awarder": "",
+     "company": "STAR Technologies University of Hawaii",
+      "position": "Assistant Project Manager",
+      "website": "www.star.hawaii.edu",
+      "startDate": "2018-06-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "University of Hawaii at Manoa Dean’s List, 2018-present",
-        "Appalachian Trail Thru-Hiker 2000 Miler Club, 2016",
-        "Air Force Achievement Medal, 2015"
+        "Assist and manage with application of multiple technical projects relating to STAR and its affiliate sites",
+        "Creat efficient workflows and programs for other administrative assistants",
+        "Test new software and perform quality control before software goes live to the UH student body"
         ]
    
     }
