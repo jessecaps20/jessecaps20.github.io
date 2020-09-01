@@ -63,14 +63,8 @@
     {
       "name": " ",
      
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
+
+      
     },
     {
       "name": "Toolsets/OS",
