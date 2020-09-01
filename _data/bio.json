@@ -58,20 +58,14 @@
       "keywords": [
        ]
     }
-  ],
+  
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+     "name": "Hiking",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
-    },
+    }
+],
     {
       "name": "Toolsets/OS",
       "level": "",
