@@ -8,7 +8,7 @@ labels:
 
 ---
 
-Invoice 1 WOD was a bit of a step of from the other WODs. I initially tried to work through the WOD without the help of the screencast but I had to refer to the screen cast at times in order to get over some humps.
+Our [Invoice 1 WOD](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html) was a bit of a step of from the other WODs. I initially tried to work through the WOD without the help of the screencast but I had to refer to the screen cast at times in order to get over some humps.
 
 I prepared for this WOD by going over the readings and viewing the screencasts. I also found freecodecamp.org to be very helpful in honing my javascript skills!
 
