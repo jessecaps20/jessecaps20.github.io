@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Jesse Capalbo Introduction
+title: E4: Progress in Programming Report
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-01
+date: 2020-11-09
 labels:
   
 ---
