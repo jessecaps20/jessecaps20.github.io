@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E3 Preparing for WODs Technical Essay
+title: Preparing for WODs Technical Essay
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-29
 labels:
